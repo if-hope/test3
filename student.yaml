@@ -1,0 +1,42 @@
+student:
+  firstName: John
+  lastName: Bojko
+  age: 19
+  university: "Sumy State University"
+  progress: 20.5
+  birthDate: 2004-03-13
+  about: >
+    responsible, 
+    fast learner, 
+    team worker, 
+    communicable
+
+  selectedCourse:
+    — course1:
+      title: "Computer Science"
+      author: "Sem Win"
+    — course2:
+      title: "Social Science"
+      author: "Cate Right"
+    — course3:
+      title: Psychology
+      author: "Ema Rivna"
+ 
+  address:
+    country: UA
+    city: Sumy
+    zip: 40016
+  sportClubs:
+    tinyBears: true
+    wildEagles: false
+
+  friends:
+    name: Marry
+    address:
+      country: UA
+      city: Sumy
+  children: null
+  hobby: [swimming, dancing]
+  enemy:
+    — "Sem"
+    — "Bob"

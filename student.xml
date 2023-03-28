@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+  <firstName>John</firstName>
+  <lastName>Bojko</lastName>
+  <age>19</age>
+  <university>Sumy State University</university>
+  <progress>20.5</progress>
+  <birthDate>2004-03-13</birthDate>
+  <about>"responsible, fast learner, team worker, communicable"</about>
+  <selectedCourses>
+   <selectedCourse>
+	<title>Computer Science</title>
+	<author>Sem Win</author>
+   </selectedCourse>
+   <selectedCourse title="Social Science" author="Cate Right" >
+   </selectedCourse>
+   <selectedCourse>
+	<title>Psychology</title>
+	<author>Ema Rivna</author>
+  </selectedCourse>
+  </selectedCourses>
+  <address>
+	<country>UA</country>
+	<city>Sumy</city>
+	<zip>40016</zip>
+  </address>
+  <sportClubs>
+	<tinyBears>true</tinyBears>
+	<wildEagles>false</wildEagles>
+  </sportClubs>
+  <friends>
+	<name>Marry</name>
+	<address>
+		<country>UA</country>
+		<city>Sumy</city>
+	</address>
+  </friends>
+  <children></children>
+  <hobbies>  
+  <hobby>Swimming</hobby>
+  <hobby>Dancing</hobby>
+  </hobbies>
+  <enemies>
+  <enemy>Sem</enemy>
+  <enemy>Bob</enemy>
+  </enemies>
+</student>
+</xml>
